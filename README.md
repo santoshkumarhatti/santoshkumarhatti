@@ -5,9 +5,9 @@ AIML Engineering Student
 ------------
 
 * 🌍  I'm based in Bellary
-* 🖥️  See my portfolio at [MyPortfolio](http://santoshkumarhatti.web.app)
+* 🖥️  See my portfolio at [MyPortfolio](http://hatti.in)
 * ✉️  You can contact me at [sndsanthosh74@gmail.com](mailto:sndsanthosh74@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Java
 
 ### Skills
 
